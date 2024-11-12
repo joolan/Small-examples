@@ -1,0 +1,5 @@
+1、基于TSC官网下载的TSC_DLL_SAMPLE改版成usb连接打印机(原demo是基于网络连接的)
+2、注意需要安卓通过usb或OTG线连接到打印机上后才能打开APP，否则打开APP会找不到打印端口闪退！
+3、默认已经写的打印指令是pos58热敏小票纸（连续纸）
+4、其他需要用到的参考资料，见附件文件
+5、 TSC打印机windows 下python调用https://ranjuan.cn/4t530-tsc-printer-python-sdk/
